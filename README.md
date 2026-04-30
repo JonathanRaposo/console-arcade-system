@@ -1,34 +1,34 @@
 # 🎮 Console Arcade System
 
-A menu-driven console application built in Java that allows users to play multiple mini-games in one place.
+![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=java)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Console-blue?style=for-the-badge)
 
 ---
 
 ## 📌 Overview
 
-The **Console Arcade System** is a simple but scalable Java application designed to simulate an arcade experience through the terminal. Users can navigate through menus, select games, and interact with different game engines.
+The **Console Arcade System** is a Java-based console application that simulates an arcade experience.  
+It allows users to navigate menus and play multiple mini-games in a single program.
 
-This project demonstrates:
+This project focuses on:
 - Object-Oriented Programming (OOP)
-- Interfaces and abstraction
+- Interface-based design
 - Modular architecture
-- Menu-driven UI design
-- Separation of concerns (UI, logic, services)
+- Separation of game logic and engine layers
+- Menu-driven UI systems
 
 ---
 
-## 🧩 Features
+## 🕹️ Games Included
 
-- Interactive console-based UI
-- Multiple games:
-  - 🐉 Guess The Pokémon
-  - ⚾ World Series Champions
-  - 🔢 The Perfect Nine
-  - 🪙 Heads or Tails (Coin Flip)
-- Game-specific logic handled by separate engines
-- Input validation and error handling
-- Replay options and game summaries
+- 🐉 Guess The Pokémon
+- ⚾ World Series Champions
+- 🔢 The Perfect Nine
+- 🪙 Heads or Tails (Coin Flip)
 
 ---
 
-## 🕹️ Sample Menu
+## 🧠 Architecture
+
+The system is structured using a modular design:
