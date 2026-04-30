@@ -40,8 +40,5 @@ The system is structured using a modular design:
 ### Pokémon Game
 ![Pokemon Game](screenshots/pokemon-game.png)
 
-### Coin Flip
-![Coin Flip](screenshots/coin-flip.png)
-
 ### Architecture diagram
 ![architecture](screenshots/architecture.png)
