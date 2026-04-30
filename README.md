@@ -32,3 +32,13 @@ This project focuses on:
 ## 🧠 Architecture
 
 The system is structured using a modular design:
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Pokémon Game
+![Pokemon Game](screenshots/pokemon-game.png)
+
+### Coin Flip
+![Coin Flip](screenshots/coinflip.png)
