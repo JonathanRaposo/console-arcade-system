@@ -37,11 +37,11 @@ The system is structured using a modular design:
 ### Main Menu
 ![Main Menu](screenshots/main-menu.png)
 
-### Coin Flip
-![Coin Flip](screenshots/coin-flip.png)
-
 ### Pokémon Game
 ![Pokemon Game](screenshots/pokemon-game.png)
 
 ### Architecture diagram
 ![architecture](screenshots/architecture.png)
+
+### Coin Flip
+![Coin Flip](screenshots/coin-flip.png)
