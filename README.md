@@ -41,4 +41,4 @@ The system is structured using a modular design:
 ![Pokemon Game](screenshots/pokemon-game.png)
 
 ### Coin Flip
-![Coin Flip](screenshots/coinflip.png)
+![Coin Flip](screenshots/coin-flip.png)
